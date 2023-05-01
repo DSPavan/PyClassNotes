@@ -1,0 +1,16 @@
+#IDLE
+
+import os
+print(os.getcwd()) 
+
+
+import platform
+platform.version() 
+
+platform.system()
+
+
+import os 
+cwd = os.getcwd() 
+print("Current working directory:", cwd) 
+
